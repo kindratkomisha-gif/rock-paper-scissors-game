@@ -19,10 +19,15 @@ JavaScript (ES6+): Event listeners, randomized computer choices, score tracking,
 Project Structure:
 
 .
+
 ├── main.html      # HTML layout for player choices, scores, and images
+
 ├── style.css      # Styling for buttons, layout, and images
+
 ├── main.js        # Main game logic and event listeners
+
 └── assets/        # Image files (rock.png, paper.png, scissor.png, machine.png)
+
 
 
 Getting Started:
@@ -37,7 +42,7 @@ Navigate to the project folder:
 cd rock-paper-scissors
 Open main.html in your favorite web browser to play!
 
-🎮 How to Play:
+How to Play:
 
 Click the Start Game button to initialize controls.
 Select Rock, Paper, or Scissors by clicking on the respective option.
