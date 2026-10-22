@@ -44,6 +44,3 @@ Select Rock, Paper, or Scissors by clicking on the respective option.
 The computer will randomly generate its choice.
 Watch the score update automatically! First to 4 points wins.
 Click Reset to clear the scores and start over.
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
